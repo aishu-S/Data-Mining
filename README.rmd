@@ -1,0 +1,23 @@
+###### CSE 572 DATA MINING #####
+
+ASSIGNMENT 1
+
+REQUIREMENTS:
+	REQUIRED DOCUMENTS:
+		-CGMData.csv
+		-InsulinData.csv
+		-Srisankaran.py
+
+	REQUIRED SOFTWARE:
+		-Python 3.6
+		-VS Code or any other python editor
+
+	REQUIRED PACKAGES:
+		-Pandas -To read and manipulate the csv files
+
+PROCEDURE:
+
+-Ensure that the CGMData.csv, InsulinData.py, Srisankaran.py are all in the same folder.
+-Open the Srisankaran.py in an editor and run the program
+-A "Results.csv" will be generated in the requested format.
+
